@@ -1,0 +1,6 @@
+flask
+flask[async]
+flask-cors
+python-dotenv
+supabase
+upstash-redis
